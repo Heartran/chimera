@@ -1,6 +1,6 @@
 Flask==1.1.1
 fuzzywuzzy==0.17.0
-Flask_Cors==3.0.8
+Flask_Cors==6.0.0
 Flask_Bootstrap==3.3.7.1
 Flask_WTF==0.14.3
 jsonpickle==1.2
